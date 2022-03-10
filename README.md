@@ -1,3 +1,3 @@
 # Toolbox
 
-## Scripts and pipelines more or less ready to be used by others
+## Scripts and pipelines written in Workflow Description Language (WDL) and Common Workflow Language (CWL).
